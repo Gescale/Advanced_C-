@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Desktop Heap\\C# Projects\\Advanced_C#\\Advanced_C#\\Advanced_C#.csproj": {}
+    "C:\\Users\\Computer Realm\\source\\repos\\Gescale\\Advanced_C-\\Advanced_C#\\Advanced_C#.csproj": {}
   },
   "projects": {
-    "E:\\Desktop Heap\\C# Projects\\Advanced_C#\\Advanced_C#\\Advanced_C#.csproj": {
+    "C:\\Users\\Computer Realm\\source\\repos\\Gescale\\Advanced_C-\\Advanced_C#\\Advanced_C#.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Desktop Heap\\C# Projects\\Advanced_C#\\Advanced_C#\\Advanced_C#.csproj",
+        "projectUniqueName": "C:\\Users\\Computer Realm\\source\\repos\\Gescale\\Advanced_C-\\Advanced_C#\\Advanced_C#.csproj",
         "projectName": "Advanced_C#",
-        "projectPath": "E:\\Desktop Heap\\C# Projects\\Advanced_C#\\Advanced_C#\\Advanced_C#.csproj",
+        "projectPath": "C:\\Users\\Computer Realm\\source\\repos\\Gescale\\Advanced_C-\\Advanced_C#\\Advanced_C#.csproj",
         "packagesPath": "C:\\Users\\Computer Realm\\.nuget\\packages\\",
-        "outputPath": "E:\\Desktop Heap\\C# Projects\\Advanced_C#\\Advanced_C#\\obj\\",
+        "outputPath": "C:\\Users\\Computer Realm\\source\\repos\\Gescale\\Advanced_C-\\Advanced_C#\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
