@@ -1,0 +1,14 @@
+E:\Desktop Heap\C# Projects\Advanced_C#\Advanced_C#\bin\Debug\net10.0\Advanced_C#.exe
+E:\Desktop Heap\C# Projects\Advanced_C#\Advanced_C#\bin\Debug\net10.0\Advanced_C#.deps.json
+E:\Desktop Heap\C# Projects\Advanced_C#\Advanced_C#\bin\Debug\net10.0\Advanced_C#.runtimeconfig.json
+E:\Desktop Heap\C# Projects\Advanced_C#\Advanced_C#\bin\Debug\net10.0\Advanced_C#.dll
+E:\Desktop Heap\C# Projects\Advanced_C#\Advanced_C#\bin\Debug\net10.0\Advanced_C#.pdb
+E:\Desktop Heap\C# Projects\Advanced_C#\Advanced_C#\obj\Debug\net10.0\Advanced_C#.GeneratedMSBuildEditorConfig.editorconfig
+E:\Desktop Heap\C# Projects\Advanced_C#\Advanced_C#\obj\Debug\net10.0\Advanced_C#.AssemblyInfoInputs.cache
+E:\Desktop Heap\C# Projects\Advanced_C#\Advanced_C#\obj\Debug\net10.0\Advanced_C#.AssemblyInfo.cs
+E:\Desktop Heap\C# Projects\Advanced_C#\Advanced_C#\obj\Debug\net10.0\Advanced_C#.csproj.CoreCompileInputs.cache
+E:\Desktop Heap\C# Projects\Advanced_C#\Advanced_C#\obj\Debug\net10.0\Advanced_C#.dll
+E:\Desktop Heap\C# Projects\Advanced_C#\Advanced_C#\obj\Debug\net10.0\refint\Advanced_C#.dll
+E:\Desktop Heap\C# Projects\Advanced_C#\Advanced_C#\obj\Debug\net10.0\Advanced_C#.pdb
+E:\Desktop Heap\C# Projects\Advanced_C#\Advanced_C#\obj\Debug\net10.0\Advanced_C#.genruntimeconfig.cache
+E:\Desktop Heap\C# Projects\Advanced_C#\Advanced_C#\obj\Debug\net10.0\ref\Advanced_C#.dll
