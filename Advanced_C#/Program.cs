@@ -1,6 +1,4 @@
-﻿// See https://aka.ms/new-console-template for more information
-using Advanced_CSharp;
+﻿using DelegateNS;
 
+Console.WriteLine("Working!");
 
-Console.WriteLine("Hello, World!");
-Console.WriteLine(Utilities<int>.Max(16, 89));
