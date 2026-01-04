@@ -25,7 +25,7 @@ Welcome to my learning repository! This project documents my journey through **M
 Here is the breakdown of the advanced concepts I am mastering:
 
 ### 1. Generics
-- [ ] Understanding why we use Generics (Type Safety vs Performance).
+- [*] Understanding why we use Generics (Type Safety vs Performance).
 - [ ] Creating Generic Classes and Methods.
 - [ ] Generic Constraints (`where T : class`, `new()`, etc.).
 
@@ -71,7 +71,7 @@ Here is the breakdown of the advanced concepts I am mastering:
 
 2. **Navigate to the folder
    ```bash
-   cd Advanced_C-
+   cd Advanced_C#
 
 3. **Run a specific excesice
    ```bash
