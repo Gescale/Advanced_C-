@@ -25,29 +25,29 @@ Welcome to my learning repository! This project documents my journey through **M
 Here is the breakdown of the advanced concepts I am mastering:
 
 ### 1. Generics
-- [ ] Understanding why we use Generics (Type Safety vs Performance).
-- [ ] Creating Generic Classes and Methods.
-- [ ] Generic Constraints (`where T : class`, `new()`, etc.).
+- [x] Understanding why we use Generics (Type Safety vs Performance).
+- [x] Creating Generic Classes and Methods.
+- [x] Generic Constraints (`where T : class`, `new()`, etc.).
 
 ### 2. Delegates & Events
-- [ ] Custom Delegates vs `Action` and `Func`.
-- [ ] Mastering the Publisher/Subscriber pattern.
-- [ ] Handling Event Arguments.
+- [x] Custom Delegates vs `Action` and `Func`.
+- [x] Mastering the Publisher/Subscriber pattern.
+- [x] Handling Event Arguments.
 
 ### 3. Lambda Expressions
-- [ ] Anonymous Methods.
-- [ ] The power of the `=>` operator.
-- [ ] Writing cleaner, more readable code.
+- [x] Anonymous Methods.
+- [x] The power of the `=>` operator.
+- [x] Writing cleaner, more readable code.
 
 ### 4. LINQ (Language Integrated Query)
-- [ ] Extension Methods vs Query Syntax.
-- [ ] Filtering, Ordering, and Projecting data.
-- [ ] Working with `IEnumerable` and `IQueryable`.
+- [x] Extension Methods vs Query Syntax.
+- [x] Filtering, Ordering, and Projecting data.
+- [x] Working with `IEnumerable` and `IQueryable`.
 
 ### 5. Exception Handling
-- [ ] Proper `try/catch` blocks.
-- [ ] Custom Exception classes.
-- [ ] The `finally` block and Resource management.
+- [x] Proper `try/catch` blocks.
+- [x] Custom Exception classes.
+- [x] The `finally` block and Resource management.
 
 ### 6. Asynchronous Programming
 - [ ] The `async` and `await` keywords.
