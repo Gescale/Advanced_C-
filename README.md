@@ -36,7 +36,6 @@ Here is the breakdown of the advanced concepts I am mastering:
 
 ### 3. Lambda Expressions
 - [x] Anonymous Methods.
-- [x] Blablabla 
 - [x] The power of the `=>` operator.
 - [x] Writing cleaner, more readable code.
 
