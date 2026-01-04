@@ -1,7 +1,7 @@
-﻿namespace EventsAndDelegates
-{
-    public class Video
-    {
-        public string title { set; get; }
-    }
-}
+﻿//namespace EventsAndDelegates
+//{
+//    public class Video
+//    {
+//        public string title { set; get; }
+//    }
+//}
