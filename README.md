@@ -16,7 +16,7 @@ Welcome to my learning repository! This project documents my journey through **M
 ## Tech Stack
 ![C#](https://img.shields.io/badge/Language-C%23-blueviolet?style=for-the-badge&logo=csharp)
 ![.NET 9](https://img.shields.io/badge/Platform-.NET%209-512bd4?style=for-the-badge&logo=dotnet)
-![Status](https://img.shields.io/badge/Status-In%20Progress-green?style=for-the-badge)
+![Status](https://img.shields.io/badge/Status-Complete-green?style=for-the-badge)
 
 ---
 
