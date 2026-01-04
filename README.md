@@ -67,7 +67,7 @@ Here is the breakdown of the advanced concepts I am mastering:
 
 1. **Clone the repo:**
    ```bash
-   git clone [https://github.com/Gescale/Advanced_C-.git](https://github.com/Gescale/Advanced_C-.git)
+   git clone https://github.com/Gescale/Advanced_C-.git
 
 2. **Navigate to the folder
    ```bash
